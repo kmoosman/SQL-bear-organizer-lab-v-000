@@ -1,5 +1,4 @@
 INSERT (name, age, gender, color, temperment, alive) VALUES ("Mr. Chocolate", 9, "male","brown","moody","yes");
-INSERT (name, age, gender, color, temperment, alive) VALUES ("Mr. Chocolate", 9, "male","brown","moody","yes");
 INSERT (name, age, gender, color, temperment, alive) VALUES ("Rowdy", 3, "male","green","cuddly","yes");
 INSERT (name, age, gender, color, temperment, alive) VALUES ("Tabitha", 15, "female","brown","moody","no");
 INSERT (name, age, gender, color, temperment, alive) VALUES ("Sergeant Brown", 3, "male","black","happy","yes");
